@@ -1,4 +1,4 @@
-# Group YY - {Autonomous Tesla Accidents}
+# Group 13 - {Autonomous Tesla Accidents}
 
 ## Milestones
 
@@ -14,19 +14,18 @@ The dataset used here contains data on automobile incidents involving Tesla vehi
 
 ## Team Members
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Jaxson Bos: I am a 20 year old third year HES student and I am taking this class to further my exposure to different data collecting methods as well as different concepts that could realte to my other classes.
+- Logan Sonley: one sentence about you!
+- Mona Huang: one sentence about you!
 
 ## Images
 
 {You should use this area to add a screenshot of an interesting plot, or of your dashboard}
 
-<img src ="images/test.png" width="100px">
-
 ## References
 
-{Add your stuff here}
+https://www.kaggle.com/datasets/ibriiee/tesla-autonomous-deaths-data-updated-2023
+https://www.tesladeaths.com/
 
 
 
