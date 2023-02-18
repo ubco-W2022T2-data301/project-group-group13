@@ -16,7 +16,7 @@ The dataset used here contains data on automobile incidents involving Tesla vehi
 ## Team Members
 
 - Jaxson Bos: I am a 20 year old third year HES student and I am taking this class to further my exposure to different data collecting methods as well as different concepts that could relate to my other classes.
-- Logan Sonley: one sentence about you!
+- Logan Sonley: I am a third year management student.
 - Mona Huang: I am a BSc student majoring in microbiology.
 
 ## Images
