@@ -1,10 +1,32 @@
 # Project Vision
 
 ## Vision Statement 
+Creating a project vision statement is an essential aspect of good project planning. In this section, I will be referencing Dovile Misevičiūtė's excellent article on project vision statements. Dovile is an employee at Teamhood (a project management software company) and describes the purpose of a project vision statement:
+
+"to guide, motivate and inspire the people working on the project".
+
+The following is a more detailed description, again by Dovile:
+
+Comprised out of only few sentences, it communicates the general feeling more than anything else. The vision statement is not supposed to give directions on how the team should act in any situation, but instead relays the core values and the end goal. Based on this information the team or individual team members can make decisions that best serve the project. A vision statement is the main tool to give knowledge on where the project should be going and thus should not be underestimated. It helps your team members make the right decisions. It motivates to complete tasks that are necessary for the end goal. And it inspires new action or solutions to achieve the desired result. Writing a project vision statement that contains all this is not easy and should be taken seriously.
+
+Dovile's article offers a few suggestions to consider when writing your project vision statement:
+
+Make it concise and easy to understand. It is best when your project vision statement is not only easy to understand, but also easy to remem8ber. The shorter and clearer you make it, the less grey area there is for your team members to interpret in their own way. Also, if they can easily remember it, they are more likely to follow it.
+
+Specify, but do not limit. Your vision statement should define the end goal and additional criteria that will make the project a success. However, it should not be focused on one specific way to achieve this end goal. Instead it should allow multiple paths to the desired result and encourage action from both stakeholders and the team.
+
+Look into the future. When writing a project vision statement, your focus should be on what you aim to achieve in a certain time frame. Instead of focusing on what you want now, look 5, 10, 20 years (*of course, for Data 301, this should be adjusted to weeks instead of years) ahead and set your goals on where you want to be. Thus driving your operation forward and aiming to reach certain results in a certain time frame.
+
+Make it inspirational and challenging. Your vision statement should be about something that the whole team is excited to achieve. At the same time, this goal should be something of a challenge that would be possible long-term and not in the near future. This way your team is excited to work hard in order to get something that is possible along the way.
+
+Don’t be too specific. When writing your vision, leave some space for changes. It is impossible to know what will happen in the next five years, thus keeping some vagueness to your goal means it won’t become inapplicable down the road.
+
+Write about who you are. The best vision statements are about who you are as a company or team and who you wish to become.
+
 
 For our project we invision that we will be able to make a connection between the growing autonomous vehicle market and whether it is a safety hazard or not. In order for us to fulfill this invision we will be looking at our data set to find the connection between the the growing market of autonomous vehicles being sold and whether this leads to an increase to safety on the roads or a decrease. One of the main arguments for autonomous vehicles is that it will eliminate human error but our data set will help us get a small sample of whether machines can fix this human error or make it worse.
 
 ## Contracted Grade
 
-For this project, we agree to contract for a B grade with hopes that we can improve on our grade later.
+For this project, we agree to contract for a B grade.
 
