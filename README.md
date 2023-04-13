@@ -25,6 +25,7 @@ The dataset used here contains data on automobile incidents involving Tesla vehi
 ## References
 
 https://www.kaggle.com/datasets/ibriiee/tesla-autonomous-deaths-data-updated-2023
+https://www.kaggle.com/datasets/swaralipibose/us-car-accidents-in-2011
 https://www.tesladeaths.com/
 
 
