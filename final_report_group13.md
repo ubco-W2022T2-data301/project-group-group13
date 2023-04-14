@@ -7,4 +7,4 @@ Our group was interested in exploring whether or not the tesla self-driving vehi
 
 
 ## Question 1:
-![Tesla_Extra_Vehicles](../images/
+![Tesla_Extra_Vehicles](../images/Tesla_Deaths_by_Country)
